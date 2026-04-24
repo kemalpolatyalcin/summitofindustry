@@ -15,11 +15,11 @@ I took full responsibility for the end-to-end development of this platform, from
 
 ## Key Features
 
-- ** AI Assistant (EMU-AI):** A custom-built chatbot designed to answer attendee questions about schedule, location, and certification in real-time.
-- ** Multi-language Support:** Full localization in Turkish and English to cater to international speakers and guests.
-- ** Responsive Design:** A "Mobile-First" approach ensuring a high-tech, futuristic aesthetic across all devices (Desktop, Tablet, Mobile).
-- ** Live Translation Integration:** Seamless integration with Microsoft Teams for real-time English translation modules.
-- ** Performance Optimized:** Built with Next.js for lightning-fast loading speeds and SEO optimization.
+- AI Assistant (EMU-AI): A custom-built chatbot designed to answer attendee questions about schedule, location, and certification in real-time.
+- Multi-language Support Full localization in Turkish and English to cater to international speakers and guests.
+- Responsive Design: A "Mobile-First" approach ensuring a high-tech, futuristic aesthetic across all devices (Desktop, Tablet, Mobile).
+- Live Translation Integration: Seamless integration with Microsoft Teams for real-time English translation modules.
+- Performance Optimized: Built with Next.js for lightning-fast loading speeds and SEO optimization.
 
 ---
 
