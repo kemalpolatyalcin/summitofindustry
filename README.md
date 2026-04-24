@@ -23,6 +23,19 @@ I took full responsibility for the end-to-end development of this platform, from
 
 ---
 
+## Architecture Decision Record (ADR) & Problem Solving
+
+As a platform designed to serve hundreds of attendees and C-level speakers simultaneously, ensuring performance and a flawless user experience was critical.
+
+**Challenge: Next.js SSR vs. CSR Hydration Mismatch in i18n**
+Implementing dynamic multi-language support (English/Turkish) created a significant technical hurdle. The server-rendered HTML (SSR) often conflicted with the client's local storage language preferences (CSR), resulting in hydration errors and unacceptable UI flickering during the initial page load.
+
+**Solution:**
+I architected a custom state management strategy using React Hooks to delay the rendering of language-dependent components until the component successfully mounted on the client side. 
+* **Impact:** This approach completely eliminated React hydration errors and UI flickering, ensuring a seamless, zero-latency language switching experience while preserving the SEO benefits of Server-Side Rendering.
+
+---
+
 ## Tech Stack
 
 - **Framework:** [Next.js](https://nextjs.org/) (React)
