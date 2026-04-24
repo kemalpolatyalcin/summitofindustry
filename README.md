@@ -57,7 +57,7 @@ I took full responsibility for the end-to-end development of this platform, from
 
 ## Contact & Club Links
 
-- **Developer LinkedIn:** [Kemal Polat Yalcin](www.linkedin.com/in/kemal-polat-yalçın-232aa3197)
+- **Developer LinkedIn:** [Kemal Polat Yalcin](https://www.linkedin.com/in/kemal-polat-yal%C3%A7%C4%B1n-232aa3197/)
 - **Instagram:** [@emuieclub](https://www.instagram.com/emuieclub)
 - **LinkedIn:** [EMU Industrial Engineering Club](https://www.linkedin.com/company/emu-industrial-engineering-society/)
 
